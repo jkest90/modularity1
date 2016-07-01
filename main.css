@@ -1,0 +1,110 @@
+.data-table {
+    width: 100%;
+}
+
+.tr1 {
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.td {
+    padding: 10px;
+}
+
+.th1 {
+    padding: 10px;
+
+}
+.stats-table {
+    width: 40%;
+}
+
+.stats-entry {
+    border-top: 1px solid #d3d3d3;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+.value {
+    padding: 10px;
+}
+
+.stats-number {
+    font: 35px solid black;
+    font-family: inherit;
+    padding: 5px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.stats-label {
+    text-align: center;
+    padding: 5px;
+    font-family: inherit;
+    color: #ccc;
+    font-weight: bold;
+}
+
+.barchart { 
+    width: 99%;
+}
+
+.bar {
+    background-color: #69c;
+    padding: 5px;
+    color: white; 
+    border-radius: 0px 5px 5px 0px;
+    
+}
+
+.barlabel {
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+/*litebox css settings*/
+/*
+.litebox-background {
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+    background-color: #A9A9A9;
+}
+
+.litebox-hello {
+    width: 500px;
+    position: relative;
+    background-color: #F0FFFF;
+    padding: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: auto;
+    border-radius: 20px;
+    
+}
+.litebox-button {
+	display: block;
+	width: 100px;
+	padding: 10px;
+	border-radius: 10px;
+	text-align: center;
+	margin-left: auto;
+	background: #ff8080;
+
+}
+
+.liteboxlink {
+    color: white;
+    text-decoration: none;
+}
+*/
+
+.img1 {
+    position: relative;
+}
+
+.text1 {
+    float: left;
+}
